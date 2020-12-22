@@ -1,1 +1,13 @@
+This is the diabetes classification challenge by coding blocks in their Machine Learning Master course. 
+It contains 576 training data points and 192 test data points.
+The classification accuracy of this model if on the lower side with 77%. The model could not generate high accuracy because of :
+  - less number of data points to train the model
+  - big difference in number of positive class and negative class
+ 
+The data the is does not contain any null values.
 
+The zip file contains the following csv files - 
+  1) Diabetes_XTrain   - contains the features of the training data
+  2) Diabetes_YTrain   - contains the labels with values 0 (no diabetes) and 1 (diabetes)
+  3) Diabetes_XTest    - contains the features for the testing data
+  4) sample_submission - contains the format of the csv file to be submitted
