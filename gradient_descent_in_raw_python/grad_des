@@ -1,1 +1,4 @@
-
+This code is the solution of "Hardwork Pays Off" problem in coding blocks machine learning master course.
+This is the code for gradient descent in python for one feature.
+The training data consists of one feature with the subsequent output.
+The regression model is for predicting the performance output for the time spent in coding.
